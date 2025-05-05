@@ -26,6 +26,13 @@ This repository contains the solution to the coding task. The goal is to generat
    - **Kolmogorov-Smirnov Test** and **Wasserstein Distance** for continuous variables.
    - **Visualizations**: Boxplots for intuitive understanding.
 
+Results
+
+Chi-squared test for Category1: p=0.0181
+
+Value1: KS p-value = 0.0099, Wasserstein distance = 0.3471
+
+Value2: KS p-value = 0.0462, Wasserstein distance = 0.6991
 ---
 
 ##  Usage
@@ -37,12 +44,6 @@ git clone https://github.com/yourusername/llm-data-similarity-task.git
 cd llm-data-similarity-task
 python generate_data.py
 
-Results
 
-Chi-squared test for Category1: p=0.0181
-
-Value1: KS p-value = 0.0099, Wasserstein distance = 0.3471
-
-Value2: KS p-value = 0.0462, Wasserstein distance = 0.6991
 
 
