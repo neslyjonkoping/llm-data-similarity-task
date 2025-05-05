@@ -1,16 +1,16 @@
 # llm-data-similarity-task
 Dataset generation and similarity verification task 
-# 🚗 PhD Coding Task: LLM Dataset Generation and Verification
+# Task: LLM Dataset Generation and Verification
 
 This repository contains the solution to the coding task. The goal is to generate a new dataset that is *similar* to an original synthetic dataset, using **different sampling parameters**, and then **verify the similarity** between them.
 
-## 📌 Task Overview
+##  Task Overview
 
 > "Use the provided code to generate a synthetic dataset, then generate a new similar dataset using different sampling parameters. Verify that the new data resembles the original."
 
 ---
 
-## 🧠 Reasoning Behind the Approach
+##  Reasoning Behind the Approach
 
 1. **Original Structure**:
    - `Category1`: Categorical with non-uniform probabilities.
@@ -28,7 +28,7 @@ This repository contains the solution to the coding task. The goal is to generat
 
 ---
 
-## 🧪 Usage
+##  Usage
 
 Clone the repo and run the script:
 
